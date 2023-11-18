@@ -1,0 +1,25 @@
+body {
+  font-size: 62.5%;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0px;
+  margin-left: 20px;
+}
+
+.ht {
+  font-size: 1.3rem;
+  font-style: italic;
+  margin-left: 75px;
+}
+
+.images1 {
+  margin-left: 25px;
+  margin-top: 30px;
+}
+
+.img1 {
+  width: 200px;
+}
